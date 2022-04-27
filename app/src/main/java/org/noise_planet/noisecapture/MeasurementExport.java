@@ -61,6 +61,7 @@ public class MeasurementExport {
     public static final String ZIP_FILENAME = "tracks/shared_tracks/track.zip";
     private MeasurementManager measurementManager;
     private Context context;
+    private String hola;
     public static final String PROPERTY_FILENAME  = "meta.properties";
     public static final String README_FILENAME  = "README.txt";
     public static final String GEOJSON_FILENAME  = "track.geojson";
