@@ -47,6 +47,8 @@ public class MeasurementSpectrogramFragment extends Fragment {
         super.onCreate(savedInstanceState);
     }
 
+    //pruebaaa
+
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
